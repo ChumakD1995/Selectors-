@@ -1,0 +1,68 @@
+ol{
+    background-color: rgb(226, 226, 236);
+}
+
+.text1 {
+    background-color: red;
+}
+
+div {
+    background: #ccc;
+} 
+
+.paragrahp {
+    color: aquamarine;
+}
+
+#text2 {
+    background-color: orange;
+    color: green;
+    font-size: 20px;
+}
+.block {
+    background-color: yellow;
+}
+.block p {
+    color: blueviolet;
+    font-weight: 800;
+}
+
+.wrap {
+    background-color: green;
+}
+.wrap > p {
+    color: aqua;
+    font-size: 25px;
+} 
+
+.block2 {
+    background-color: lightblue;
+}
+.block2 p ~ a {
+    color: bisque;
+}
+
+input[type="text"] {
+    background-color: aqua;
+}
+
+input[type="password"] {
+    border: 2px solid red;
+}
+
+.block3 {
+    background-color: purple;
+}
+.block3:hover {
+    color: red;
+    background-color: lightblue;
+}
+
+.block3 a:visited {
+        background-color: black;
+        color: rgb(121, 21, 21);
+}
+
+.text3 {
+    background-color:blue ;
+}
